@@ -63,9 +63,6 @@ Day4:
 
 #### Status på day 4(DOM manipulation and Events)
 
-Jeg nåede midtvejs i "using map and filter to create dynamic tables".
-jeg fik lavet tabellen og knappen med input
-
-delen. jeg stoppede midtvejs i addventHandleren.
+Jeg nåede at lave det hele bortset fra Calculator delen.
 
 opgaverne kan findes i domManipulationAndEvents projektet;
